@@ -1,1 +1,1 @@
-# openeo_py
+Exploring OpenEO API
